@@ -34,7 +34,7 @@ int main(array<String^>^ args) {
 //	| SOME WINFORMS TRASH |
 //	+---------------------+
 System::Void Project1::MyForm::MyForm_Load(System::Object^ sender, System::EventArgs^ e) {
-	button1->Text = "Î÷èñòèòü";
+	button1->Text = "ÃÃ·Ã¨Ã±Ã²Ã¨Ã²Ã¼";
 	label1->Text = ""; label2->Text = "";
 	int f;
 	init();
