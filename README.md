@@ -13,5 +13,6 @@ Neural network trained on MNIST dataset now with GUI. Based on WinForms
 
 ![Screenshot 1.](https://github.com/R0uT3r52/MNIST-GUI/blob/main/Data/Images/image1.png)
 Скриншот 1.
+
 ![Screenshot 2.](https://github.com/R0uT3r52/MNIST-GUI/blob/main/Data/Images/image2.png)
 Скриншот 2.
