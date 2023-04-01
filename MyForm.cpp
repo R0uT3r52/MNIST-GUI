@@ -62,6 +62,7 @@ System::Void Project1::MyForm::button1_Click(System::Object^ sender, System::Eve
 	//clear button
 	canvas->Clear(SystemColors::MenuText);
 	label1->Text = "";
+	label2->Text = "";
 	GC::Collect();
 	pictureBox1->Invalidate();
 }
