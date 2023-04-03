@@ -9,7 +9,7 @@ Neural network trained on MNIST dataset now with GUI. Based on WinForms
 
 Перед запуском проекта в Visual Studio убедитесь, что у вас установлены все необходимые компоненты для работы с Windows Forms
 
-Работа приложения:
+Пример работы приложения:
 
 Изображение 1.
 
